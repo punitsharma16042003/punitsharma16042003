@@ -140,7 +140,7 @@ IIT Ropar [10/2025 - 06/2026] ──► Research Assistant       | Satluj River 
     </td>
   </tr>
   <tr>
-    <td width="30%" valign="top"><b>📊 Data Analysis, GIS & Publishing</b></td>
+    <td width="30%" valign="top"><b> Data Analysis, GIS & Publishing</b></td>
     <td width="70%">
       <img src="https://img.shields.io/badge/OriginLab-EA580C?style=flat-square" />
       <img src="https://img.shields.io/badge/SpectroGryph-4338CA?style=flat-square" />
